@@ -4,12 +4,44 @@ import { styled } from "@mui/system";
 import "./fonts.css";
 import DesktopFolder from "./DesktopFolder";
 import CustomCursorImage from "./assets/cursor.png";
-import testImage from "./assets/ads/test1.jpg";
-import testImage2 from "./assets/ads/test2.jpg";
-import testGif from "./assets/ads/testgif1.gif";
-import testGif2 from "./assets/ads/testgif2.gif";
-
-const IMAGES = [testImage, testImage2, testGif, testGif2];
+import Ad1 from "./assets/ads/gobad1.gif";
+import Ad2 from "./assets/ads/gobad2.gif";
+import Ad3 from "./assets/ads/gobad3.gif";
+import Ad4 from "./assets/ads/gobad4.gif";
+import Ad5 from "./assets/ads/gobad5.gif";
+import Ad6 from "./assets/ads/gobad6.gif";
+import Ad7 from "./assets/ads/gobad7.gif";
+import Ad8 from "./assets/ads/gobad8.gif";
+import Ad9 from "./assets/ads/gobad9.gif";
+import Ad10 from "./assets/ads/gobad10.gif";
+import Ad11 from "./assets/ads/gobad11.gif";
+import Ad12 from "./assets/ads/gobad12.gif";
+import Ad13 from "./assets/ads/gobad13.gif";
+import Ad14 from "./assets/ads/gobad14.gif";
+import Ad15 from "./assets/ads/gobad15.gif";
+import Ad16 from "./assets/ads/gobad16.gif";
+import Ad17 from "./assets/ads/gobad17.gif";
+import Ad18 from "./assets/ads/gobad18.gif";
+const IMAGES = [
+  Ad1,
+  Ad2,
+  Ad3,
+  Ad4,
+  Ad5,
+  Ad6,
+  Ad7,
+  Ad8,
+  Ad9,
+  Ad10,
+  Ad11,
+  Ad12,
+  Ad13,
+  Ad14,
+  Ad15,
+  Ad16,
+  Ad17,
+  Ad18,
+];
 
 const AppContainer = styled("div")({
   backgroundColor: "#148484",
