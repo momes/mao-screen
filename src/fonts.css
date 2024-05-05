@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "WindowsFont";
+  src: url("../public/fonts/w95fa.woff") format("woff2"),
+    url("../public/fonts/w95fa.woff2") format("woff");
+}
