@@ -7,7 +7,7 @@ const DesktopFolderContainer = styled("div")({
   display: "flex",
   flexDirection: "column",
   alignItems: "center",
-  gap: "8px", // Add some space between the image and the label
+  gap: "8px",
 });
 
 const DesktopFolderImg = styled("img")({
